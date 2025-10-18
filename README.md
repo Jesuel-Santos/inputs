@@ -58,6 +58,3 @@ scikit-learn e MLflow, rodando localmente no Jupyter Notebook.
 - **Reprodutibilidade**: Uso de MLflow para rastrear experimentos é essencial para projetos colaborativos.
 - **Escalabilidade**: Planejo migrar para Azure para pipelines mais robustos.
 - **Customização**: Adaptei o desafio de sorvetes para açaí, aplicando conceitos reais à minha loja.
-
-## Como Rodar o Projeto
-1. Clone o repositório:
